@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_pracReviews/static/css/main.04fb4881.css",
+    "main.js": "/react_pracReviews/static/js/main.9f74d3ea.js",
+    "index.html": "/react_pracReviews/index.html",
+    "main.04fb4881.css.map": "/react_pracReviews/static/css/main.04fb4881.css.map",
+    "main.9f74d3ea.js.map": "/react_pracReviews/static/js/main.9f74d3ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04fb4881.css",
+    "static/js/main.9f74d3ea.js"
+  ]
+}
